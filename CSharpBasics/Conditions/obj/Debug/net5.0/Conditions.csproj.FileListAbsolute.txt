@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\Conditions.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\Conditions.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\Conditions.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\Conditions.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\Conditions.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\ref\Conditions.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\bin\Debug\net5.0\Conditions.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\ref\Conditions.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Conditions\obj\Debug\net5.0\Conditions.genruntimeconfig.cache

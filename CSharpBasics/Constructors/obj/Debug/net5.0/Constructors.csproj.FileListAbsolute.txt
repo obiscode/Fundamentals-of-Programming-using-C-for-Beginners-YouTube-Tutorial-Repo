@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\Constructors.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\Constructors.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\Constructors.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\ref\Constructors.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\bin\Debug\net5.0\Constructors.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\ref\Constructors.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Constructors\obj\Debug\net5.0\Constructors.genruntimeconfig.cache

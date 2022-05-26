@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.genruntimeconfig.cache
