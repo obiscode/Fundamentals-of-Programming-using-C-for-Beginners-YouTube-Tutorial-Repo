@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9bGva8oGjj2s3RIQ5TGZ9zSmgl5VvCSailNAD08NMVrO6dvI428W4evIxhx75Hl7JhQkFjP7b++w+BfHWID3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\GetNSetProperties\\GetNSetProperties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

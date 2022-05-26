@@ -1,0 +1,16 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\GetNSetProperties.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\GetNSetProperties.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\GetNSetProperties.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\GetNSetProperties.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\GetNSetProperties.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\ref\GetNSetProperties.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\bin\Debug\net5.0\GetNSetProperties.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.csproj.AssemblyReference.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\ref\GetNSetProperties.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\GetNSetProperties\obj\Debug\net5.0\GetNSetProperties.genruntimeconfig.cache

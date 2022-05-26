@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VI2BfFxE+mZmNadIiQHW04hEOx8vWi1pY/OS1OL38XCmGBiLI5Yf7vIyneSBDFh97f6coL/WK4jgwsAovZ70Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\ForLoop\\ForLoop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
