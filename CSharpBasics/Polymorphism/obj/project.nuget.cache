@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2LC3Jm1lpU76GaJVv90zW4CB8sQIPVNzoUtjfr9DL6lAi4LtRZ/T3/1xRAGrE1kbinI4B5JTkP9txFkcgENtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\Polymorphism\\Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
