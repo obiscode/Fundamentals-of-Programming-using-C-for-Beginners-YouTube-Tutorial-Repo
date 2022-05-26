@@ -1,0 +1,16 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\AccessModifiers.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\AccessModifiers.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\AccessModifiers.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\AccessModifiers.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\AccessModifiers.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\ref\AccessModifiers.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\bin\Debug\net5.0\AccessModifiers.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\ref\AccessModifiers.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\AccessModifiers\obj\Debug\net5.0\AccessModifiers.genruntimeconfig.cache

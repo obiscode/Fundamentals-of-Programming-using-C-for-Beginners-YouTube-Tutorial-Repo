@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BH20v4QHPsO+vcj+Vyf1AN6yaZdwPt8rIJQ/qm+rwCFqzUoTtgnpnz6npsIwqVXxv3Av8J9YQNlW4y6ayxqITg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\AccessModifiers\\AccessModifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
