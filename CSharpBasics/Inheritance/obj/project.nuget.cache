@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TSwEYaBO+77IPpJ/7rFOZzeVrbzfp99smRaHB12vRv6bOKWf7c4a4MUX489L99hhP4vohR+SGUejXlYF+nc5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

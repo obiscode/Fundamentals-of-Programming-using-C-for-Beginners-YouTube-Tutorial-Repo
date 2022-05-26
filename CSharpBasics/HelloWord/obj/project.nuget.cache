@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtsIwIpTz62I3MF9L53u9YaB7ltSW3YoN0RcrK7AjwnuBsVWIT5f6pTGCmk1/GJcnWLBwdMogZ2xCkvq41Gqyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\HelloWord\\HelloWord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

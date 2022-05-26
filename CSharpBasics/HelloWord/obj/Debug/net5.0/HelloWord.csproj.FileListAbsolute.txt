@@ -1,0 +1,16 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\HelloWord.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\HelloWord.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\HelloWord.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\ref\HelloWord.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\bin\Debug\net5.0\HelloWord.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\ref\HelloWord.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\HelloWord\obj\Debug\net5.0\HelloWord.genruntimeconfig.cache

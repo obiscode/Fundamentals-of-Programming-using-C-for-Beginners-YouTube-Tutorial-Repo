@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzzG4okTiKqsrUzcaJAdN7n1TzSmdckQaOJv+7WSXqeBzZU5YjQnKiDyaMePL74MasJ+Yaa210oFUNiC81H1TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\GuessingGame\\GuessingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
