@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUnA22m4VYr7kisoFovH91vUs59IgBw41VdQR+lZgGdAIlWsAWED3n50Ci+9psBsQMVKWp2T8ZW7HhuPG30dtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\Abstraction\\Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
