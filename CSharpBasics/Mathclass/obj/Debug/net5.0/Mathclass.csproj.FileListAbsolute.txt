@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\Mathclass.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\Mathclass.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\Mathclass.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\Mathclass.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\Mathclass.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\ref\Mathclass.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\bin\Debug\net5.0\Mathclass.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\ref\Mathclass.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Mathclass\obj\Debug\net5.0\Mathclass.genruntimeconfig.cache

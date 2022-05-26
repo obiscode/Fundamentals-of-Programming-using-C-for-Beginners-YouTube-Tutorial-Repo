@@ -1,0 +1,16 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\Method.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\Method.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\Method.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\Method.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\Method.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\ref\Method.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\bin\Debug\net5.0\Method.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.csproj.AssemblyReference.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\ref\Method.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Method\obj\Debug\net5.0\Method.genruntimeconfig.cache

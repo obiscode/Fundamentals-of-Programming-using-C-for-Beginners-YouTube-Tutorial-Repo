@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ca6DuKk+VpACR5JFWO52m0yXMwi4ODh+x1K+2hbjYoMZg/uZTpYe7ZGSbU1c9gcxABhVtFl8+Sk5H2NvezatQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
