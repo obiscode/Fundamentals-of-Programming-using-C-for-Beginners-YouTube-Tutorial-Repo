@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\UserInput.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\UserInput.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\UserInput.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\UserInput.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\UserInput.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\ref\UserInput.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\bin\Debug\net5.0\UserInput.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\ref\UserInput.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\UserInput\obj\Debug\net5.0\UserInput.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\Switch.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\Switch.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\Switch.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\ref\Switch.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\bin\Debug\net5.0\Switch.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\ref\Switch.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache
