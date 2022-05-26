@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/swIcAB5NFRB9hE8OBX7KH+S4JDli6xWd0wQZDuxe55eIbYLVpm8r0ambgmQteOtaCI5xItsXbpXDDe0E7blpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\CSharpBasics\\Enums\\Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER.USER-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

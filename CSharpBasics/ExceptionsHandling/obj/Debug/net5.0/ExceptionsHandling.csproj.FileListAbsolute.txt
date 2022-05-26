@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ExceptionsHandling.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ExceptionsHandling.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ExceptionsHandling.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ExceptionsHandling.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ExceptionsHandling.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ref\ExceptionsHandling.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\bin\Debug\net5.0\ExceptionsHandling.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ref\ExceptionsHandling.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\ExceptionsHandling\obj\Debug\net5.0\ExceptionsHandling.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\Enums.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\Enums.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
