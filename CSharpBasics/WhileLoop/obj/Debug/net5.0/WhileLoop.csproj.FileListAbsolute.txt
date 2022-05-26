@@ -1,0 +1,15 @@
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\WhileLoop.exe
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\WhileLoop.deps.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.dev.json
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\WhileLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\ref\WhileLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\bin\Debug\net5.0\WhileLoop.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\ref\WhileLoop.dll
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.pdb
+C:\Users\USER.USER-PC\source\repos\CSharpBasics\WhileLoop\obj\Debug\net5.0\WhileLoop.genruntimeconfig.cache
